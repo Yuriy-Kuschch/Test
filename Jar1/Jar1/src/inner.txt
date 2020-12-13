@@ -1,0 +1,1 @@
+inner text in file JAR
